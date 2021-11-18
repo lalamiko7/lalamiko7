@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding, playing hockey and plants
 - 🚧 I'm currently hosting my own website on an Ubuntu server
 - 🌱 I’m studying Computer Science next year
-- 💞️ I’m looking to collaborate on website development and server hosting
-      or anything else that could be fun :)
-- 📫 How to reach me: leander.bindt@ziggo.nl or https://www.leanderbindt.dev
+- 📫 How to reach me: mail@leanderbindt.dev or https://www.leanderbindt.dev
 
 <!---
 lalamiko7/lalamiko7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
