@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @lalamiko7, I'm 17 years old and live in The Netherlands
-- 👀 I’m interested in coding, math, beautiful websites and networking
-- 🚧 I'm currently creating my own website to host on an Ubuntu server
-- 🌱 I will be studying Computer Science next year
+### 👋 Hi, I’m Leander
+
+I really like programming, I like playing games too. Maybe even more than programming. Who knows 🤷🏼‍♂️
+
+Fun fact:
+My favourite drink is 🧃hot chocolate.
+
+Some more about me:
+- 👀 I’m interested in coding, math and beautiful websites
+- 🚧 I'm currently creating my very first personal website
+- 🌱 I hope to be studying Computer Science next year
 - 📫 How to reach me: mail@leanderbindt.dev
 
 <!---
